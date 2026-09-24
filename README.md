@@ -19,4 +19,5 @@ A production-grade template demonstrating secure, multi-tier container orchestra
 ```bash
 git clone https://github.com/gaucho212/Rate-Limited-Microservice-API.git
 cd Rate-Limited-Microservice-API
+cp .env.example .env
 docker compose up --build -d
