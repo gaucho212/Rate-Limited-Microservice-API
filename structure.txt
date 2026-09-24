@@ -1,0 +1,10 @@
+docker-microservice/
+├── backend/
+│   ├── .dockerignore
+│   ├── Dockerfile
+│   ├── main.py
+│   └── requirements.txt
+├── nginx/
+│   └── default.conf
+├── .env
+└── docker-compose.yml

@@ -1,0 +1,21 @@
+# 1. Bezpieczeństwo i sekrety 
+.env
+*.env
+!.env.example
+
+# 2. Środowisko lokalne Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# 3. Pliki tymczasowe edytorów i systemów operacyjnych
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 4. Logi i pliki tymczasowe
+*.log
