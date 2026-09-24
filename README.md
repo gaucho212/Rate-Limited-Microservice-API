@@ -17,6 +17,6 @@ A production-grade template demonstrating secure, multi-tier container orchestra
 
 ## Quickstart
 ```bash
-git clone [https://github.com/](https://github.com/)<twoj-username>/docker-microservice.git
-cd docker-microservice
+git clone https://github.com/gaucho212/Rate-Limited-Microservice-API.git
+cd Rate-Limited-Microservice-API
 docker compose up --build -d
